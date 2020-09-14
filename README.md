@@ -11,8 +11,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rirah&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### Spotify Playing 🎧
-[<img src="https://wynk.in/music/song/intentions/um_00602508787294-USUM72001302" alt="Rahul Playlist" width="350" />](https://wynk.in/music/song/intentions/um_00602508787294-USUM72001302)
+### Wynk Playing 🎧
+[<img src="https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1581052762/srch_universalmusic_00602508787294-USUM72001302.jpg" alt="Rahul Playlist" width="350" />](https://wynk.in/music/song/intentions/um_00602508787294-USUM72001302)
 
 ### Languages and Tools:
 
