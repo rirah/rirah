@@ -11,6 +11,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rirah&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img src = "https://camo.githubusercontent.com/4e68693b713350864a9de2e6987d757b73b65060/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76656e75676f70616c6b6164616d6261267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374">
+
 ### Wynk Playing 🎧
 [<img src="https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1581052762/srch_universalmusic_00602508787294-USUM72001302.jpg" alt="Rahul Playlist" width="350" />](https://wynk.in/music/song/intentions/um_00602508787294-USUM72001302)
 
